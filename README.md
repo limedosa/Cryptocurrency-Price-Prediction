@@ -1,6 +1,4 @@
-# Cryptocurrency-Price-Prediction
-
-# README for Cryptocurrency Data Processing and Model Training Notebook
+# Cryptocurrency Data Processing and Model Training Notebook
 
 ## Overview
 
